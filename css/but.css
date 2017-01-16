@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+/* Кнопка */
+A.rollover{
+	background:url(img/but.png);
+	display:block;
+	width:288px;
+	height:45px;
+	text-align:center;
+	margin-top:300px;}
+A.rollover:hover{
+background-position:0 -55px;}
+.but a{
+	text-decoration:none;
+	color:#000;
+	display:block;
+	font-family:'PT Sans Narrow', arial;
+	font-size:36px;
+	font-weight:600;
+	margin-left:80px;
+	padding-bottom:5px;
+	padding-top:5px;} 
+.but a:hover{
+	color:#3B3B3B;}
+	
+.but{
+	position:relative;}
+.cena1 img{
+	margin-top:-160px;
+	position:absolute;}
+
+.cena2 img{
+	margin-top:-150px;
+	position:absolute;
+	margin-left:290px;}
+
+
+
